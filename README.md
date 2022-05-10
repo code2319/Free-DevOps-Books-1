@@ -10,7 +10,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
-* [ ]  [ ] A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
+* [ ]  A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
 * [ ]  Advanced Bash-Scripting Guide [[Download]](/book/Advanced%20Bash-Scripting%20Guide.pdf)
 * [ ]  API-Driven DevOps [[Download]](/book/API-Driven%20DevOps.epub)
 * [ ]  Automate it! - Recipes to upskill your business [[Download]](/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
@@ -94,6 +94,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * [ ]  The DevOps Handbook - How to Create World-Class Agility, Reliability, and Security in Technology Organizations [[Download]](/book/The%20DevOps%20Handbook%20-%20How%20to%20Create%20World-Class%20Agility%2C%20Reliability%2C%20and%20Security%20in%20Technology%20Organizations.epub)
 * [ ]  The Linux Command Line - A Complete Introduction [[Download]](/book/The%20Linux%20Command%20Line%20-%20A%20Complete%20Introduction.pdf)
 * [ ]  The Linux Programming Interface - A Linux and UNIX System Programming Handbook [[Download]](/book/The%20Linux%20Programming%20Interface%20-%20A%20Linux%20and%20UNIX%20System%20Programming%20Handbook.pdf)
+* [x] The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
 * [ ]  tmux 2 - Productive Mouse-Free Development [[Download]](/book/tmux%202%20-%20Productive%20Mouse-Free%20Development.epub)
 * [ ]  tmux Taster [[Download]](/book/tmux%20Taster.pdf)
 * [ ]  UNIX and Linux System Administration Handbook - Fifth Edition [[Download]](/book/UNIX%20and%20Linux%20System%20Administration%20Handbook%20-%20Fifth%20Edition.epub)
